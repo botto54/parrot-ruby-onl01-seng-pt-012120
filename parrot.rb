@@ -6,6 +6,3 @@ def parrot()
   puts "Squawk!"
   return phrase
 end
-
-def parrot("Pretty bird!")
-end
